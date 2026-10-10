@@ -5,7 +5,8 @@ Ejercicio de la Unidad 01: Evidence Acquisition and Preservation, correspondient
 ---
 
 ## Autor
-**Nombre:** Judit Quirós Violero
+**Nombre:** Judit Quirós Violero.
+
 **Repositorio Github:** [afi-ud1-identificar](https://github.com/jquivio1606/afi-ud1-identificar)
 
 ---
